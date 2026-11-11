@@ -26,6 +26,8 @@ simple_auth_manager_passwords.json.generated
 # Dashboard
 dashboard/*.pbix
 dashboard/*/part-*.csv
+# Generated dashboard outputs
+dashboard/
 
 # IDE
 .vscode/
